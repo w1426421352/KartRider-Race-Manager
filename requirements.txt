@@ -1,0 +1,8 @@
+PyQt6~=6.4.2
+pillow~=11.3.0
+fastapi~=0.116.1
+asteval~=1.0.6
+uvicorn~=0.35.0
+chardet~=5.2.0
+beautifulsoup4~=4.13.4
+lxml~=6.0.0
